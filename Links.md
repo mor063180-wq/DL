@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-01 20:51 IR
+- 📥 [com.stealthcopter.portdroid_arm64-v8a_30.apks](https://github.com/mor063180-wq/DL/raw/main/dl/com.stealthcopter.portdroid_arm64-v8a_30.apks) `3.5MB`
+
+---
+
+
 ### 📅 2026-05-01 16:33 IR
 - 📥 [range-scout_linux_arm64](https://github.com/mor063180-wq/DL/raw/main/dl/range-scout_linux_arm64) `8.8MB`
 
