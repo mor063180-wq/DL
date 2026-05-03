@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-03 20:52 IR
+- 📱 [WhiteDNS-Beta2.apk](https://github.com/mor063180-wq/DL/raw/main/dl/WhiteDNS-Beta2.apk) `22.0MB`
+
+---
+
+
 ### 📅 2026-05-03 20:28 IR
 - 📱 [SlipNet-v2.5.3-full-arm64-v8a.apk](https://github.com/mor063180-wq/DL/raw/main/dl/SlipNet-v2.5.3-full-release-arm64-v8a.apk) `25.6MB`
 
