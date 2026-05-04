@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-04 18:54 IR
+- 📱 [thefeed-android-v0.14.8-arm64-v8a.apk](https://github.com/mor063180-wq/DL/raw/main/dl/thefeed-android-v0.14.8-arm64-v8a.apk) `8.0MB`
+
+---
+
+
 ### 📅 2026-05-04 11:11 IR
 - 📱 [app-arm64-v8a.apk](https://github.com/mor063180-wq/DL/raw/main/dl/app-arm64-v8a.apk) `22.1MB`
 
